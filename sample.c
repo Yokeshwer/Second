@@ -1,7 +1,7 @@
 
 void main()
 {
-    int a = 10;
+    int a = 25;
     int b = 15;
     printf("%d",a + b);
 } 
